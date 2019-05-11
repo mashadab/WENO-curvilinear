@@ -1,7 +1,7 @@
 # WENO-curvilinear
 This repository encloses Mathematica codes used in the paper [1] on Fifth order finite volume Weighted essentially non-oscillatory scheme in orthogonally-curvilinear coordinates.
 
-The two Mathematica codes enclosed in this repository are as follows:
+The two Mathematica codes are as follows:
 1. Weight derivation: For uniform grids in cartesian, cylindrical, and spherical coordinates
 2. Modified von-Neumann stability analysis (as performed in [2])
 
