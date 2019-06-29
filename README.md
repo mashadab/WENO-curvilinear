@@ -8,5 +8,5 @@ The two Mathematica codes are as follows:
 Please cite paper [1], if using/extending the codes/work.
 
 References:
-1. Shadab, M.A., Balsara, D., Shyy, W. and Xu, K., 2017. Fifth order finite volume WENO in general orthogonally-curvilinear coordinates. arXiv preprint arXiv:1711.06212. Link: https://arxiv.org/pdf/1711.06212.pdf
+1. Shadab, M.A., Balsara, D., Shyy, W. and Xu, K., 2019. Fifth order finite volume WENO in general orthogonally-curvilinear coordinates. Computers & Fluids (article in press). Link: https://doi.org/10.1016/j.compfluid.2019.06.031
 2. Liu, H. and Jiao, X., 2016. WLS-ENO: Weighted-least-squares based essentially non-oscillatory schemes for finite volume methods on unstructured meshes. Journal of Computational Physics, 314, pp.749-773. Link: https://www.sciencedirect.com/science/article/pii/S0021999116001911 
