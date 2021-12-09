@@ -6,8 +6,8 @@ The two Mathematica codes are as follows:
 2. Modified von-Neumann stability analysis (as performed in [2])
 
 <p align="center">
-<img src="./Cover_photos/Cover1.jpeg" height="370">
-  <img src="./Cover_photos/Cover2.jpeg" height="370">
+<img src="./Cover_photos/Cover1.png" height="370">
+  <img src="./Cover_photos/Cover2.png" height="370">
 </p>
 Figure : Schematic showing gravity-driven infiltration in a soil with porosity $ \phi $ decay with depth. The colors blue, brown, white refer to water, soil and gas respectively. A fully saturated region $ \Omega(t) $ develops within an otherwise unsaturated domain. The saturated-unsaturated region boundary $ \partial \Omega (t) $ has a boundary condition of water-gas pressure equivalence. The saturated region expands with time as the boundary $ \partial \Omega (t) $ moves in outward direction.
 
