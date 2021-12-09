@@ -3,7 +3,7 @@ This repository encloses Mathematica codes used in the paper [1] on Fifth order 
 
 ## The two Mathematica codes are as follows:
 1. Weight derivation: For uniform grids in cartesian, cylindrical, and spherical coordinates
-2. Modified von-Neumann stability analysis (as performed in [2])
+2. Modified von-Neumann stability analysis (as performed in [3])
 
 <p align="center">
 <img src="./Cover_photos/Cover1.png" height="400">
@@ -16,8 +16,9 @@ Figure 2: Rescaled spectrums (with maximum stable CFL number ~ σ) and stability
 
 
 # References:
-1. Shadab, M.A., Balsara, D., Shyy, W. and Xu, K., 2019. Fifth order finite volume WENO in general orthogonally-curvilinear coordinates. Computers & Fluids (article in press). Link: https://doi.org/10.1016/j.compfluid.2019.06.031
-2. Liu, H. and Jiao, X., 2016. WLS-ENO: Weighted-least-squares based essentially non-oscillatory schemes for finite volume methods on unstructured meshes. Journal of Computational Physics, 314, pp.749-773. Link: https://www.sciencedirect.com/science/article/pii/S0021999116001911 
+1. Shadab, M.A., Balsara, D., Shyy, W. and Xu, K., 2019. Fifth order finite volume WENO in general orthogonally-curvilinear coordinates. Computers & Fluids, 190, pp.398-424. [Link](https://doi.org/10.1016/j.compfluid.2019.06.031)
+2. Sherwin, S.J., Moxey, D., Peiró, J., Vincent, P.E. and Schwab, C., 2020. Spectral and High Order Methods for Partial Differential Equations ICOSAHOM 2018: Selected Papers from the ICOSAHOM Conference, London, UK, July 9-13, 2018 (p. 658). Springer Nature. [Link](https://library.oapen.org/handle/20.500.12657/41274)
+3. Liu, H. and Jiao, X., 2016. WLS-ENO: Weighted-least-squares based essentially non-oscillatory schemes for finite volume methods on unstructured meshes. Journal of Computational Physics, 314, pp.749-773. [Link](https://www.sciencedirect.com/science/article/pii/S0021999116001911)
 
 
-## Please cite paper [1], if using/extending the codes/work.
+### Please cite paper [1,2], if using/extending the codes/work.
