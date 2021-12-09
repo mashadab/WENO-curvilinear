@@ -9,7 +9,7 @@ This repository encloses Mathematica codes used in the paper [1] on Fifth order 
 <img src="./Cover_photos/Cover1.png" height="400">
   <img src="./Cover_photos/Cover2.png" height="500">
 </p>
-Figure : Rescaled spectrums (with maximum stable CFL number ~ σ) and stability domains of fifth−order WENO−C in spherical coordinates (m = 2) in a complex plane for different index numbers i=40
+Figure 2: Rescaled spectrums (with maximum stable CFL number ~ σ) and stability domains of fifth−order WENO−C in spherical coordinates (m = 2) in a complex plane for different index numbers i=40
 
 
 
