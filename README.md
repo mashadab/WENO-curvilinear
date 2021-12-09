@@ -6,10 +6,12 @@ The two Mathematica codes are as follows:
 2. Modified von-Neumann stability analysis (as performed in [2])
 
 <p align="center">
-<img src="./Cover_photos/Cover1.png" height="500">
+<img src="./Cover_photos/Cover1.png" height="400">
   <img src="./Cover_photos/Cover2.png" height="500">
 </p>
 Figure : Rescaled spectrums (with maximum stable CFL number ~ σ) and stability domains of fifth−order WENO−C in spherical coordinates (m = 2) in a complex plane for different index numbers i=40
+
+
 
 
 Please cite paper [1], if using/extending the codes/work.
