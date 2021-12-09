@@ -17,7 +17,7 @@ Figure 2: Rescaled spectrums (with maximum stable CFL number ~ σ) and stability
 
 # References:
 1. Shadab, M.A., Balsara, D., Shyy, W. and Xu, K., 2019. Fifth order finite volume WENO in general orthogonally-curvilinear coordinates. Computers & Fluids, 190, pp.398-424. [Link](https://doi.org/10.1016/j.compfluid.2019.06.031)
-2. Sherwin, S.J., Moxey, D., Peiró, J., Vincent, P.E. and Schwab, C., 2020. Spectral and High Order Methods for Partial Differential Equations ICOSAHOM 2018: Selected Papers from the ICOSAHOM Conference, London, UK, July 9-13, 2018 (p. 658). Springer Nature. [Link](https://library.oapen.org/handle/20.500.12657/41274)
+2. Shadab, M.A., Ji, X. and Xu, K., 2020. Fifth-order finite-volume WENO on cylindrical grids. Spectral and High Order Methods for Partial Differential Equations, p.637. [Link](https://library.oapen.org/handle/20.500.12657/41274)
 3. Liu, H. and Jiao, X., 2016. WLS-ENO: Weighted-least-squares based essentially non-oscillatory schemes for finite volume methods on unstructured meshes. Journal of Computational Physics, 314, pp.749-773. [Link](https://www.sciencedirect.com/science/article/pii/S0021999116001911)
 
 
